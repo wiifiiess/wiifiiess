@@ -12,6 +12,7 @@ $\color{#5c3273}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#5c
 <br>
 <details <p align="center">
 <summary>  </summary>
+btw this looks good on dark mode only so hi bruh
 <br>
 make sure to follow my main and check out my friends. ok. go.
 </details>
