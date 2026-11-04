@@ -7,7 +7,7 @@
 <p align="center">
 $\color{#f3d194}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#f3d194}{the}$ $\color{#e7a397}{same}$ $\color{#f3d194}{!}$ $\color{#f3d194}{ৎ}$ </p>
 <br>
-<p align="center"> <a href="https://soursstuff.straw.page">strawpage</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
+<p align="center"> <a href="https://soursstuff.straw.page">strawpage</a> <img src=https://github.com/wiifiiess/wiifiiess/blob/ae894e90f180b9f86c536724085245ffd94fe3b3/gold259.GIF> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
 <br>
 <details <p align="center">
 <summary>  </summary>
