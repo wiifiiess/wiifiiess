@@ -5,4 +5,10 @@
 <br>
 <p align="center"> $\color{#f3d194}{𑣲}$ $\color{#e7a397}{Look}$ $\color{#f3d194}{,}$ $\color{#a33d85}{if}$ $\color{#010064}{youre}$ $\color{#e7a397}{gonna}$ $\color{#a33d85}{hit}$ $\color{#010064}{on}$ $\color{#e7a397}{my}$ $\color{#a33d85}{sister}$ $\color{#f3d194}{,}$ $\color{#010064}{you}$ $\color{#e7a397}{can}$ $\color{#a33d85}{hit}$ $\color{#010064}{on}$ $\color{#e7a397}{me}$ $\color{#a33d85}{too}$ $\color{#f3d194}{.}$
 <p align="center">
-$\color{#010064}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#010064}{the}$ $\color{#e7a397}{same}$ $\color{#f3d194}{!}$ $\color{#f3d194}{ৎ}$
+$\color{#010064}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#010064}{the}$ $\color{#e7a397}{same}$ $\color{#f3d194}{!}$ $\color{#f3d194}{ৎ}$ </p>
+<br>
+<details <p align="center">
+<summary> $${\color{#1}}$$  </summary>
+<br>
+  placeholder
+</details>
