@@ -10,12 +10,11 @@ $\color{#f3d194}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#f3
 <br>
 <p align="center"> <a href="https://soursstuff.straw.page">strawpage</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
 <br>
-<br>
 <details <p align="center">
 <summary>  </summary>
 btw this looks good on dark mode only so hi bruh
 <br>
 make sure to follow my main and check out my friends. ok. go.
 </details>
-
+<br>
 <p align="center"> <img src=https://github.com/wiifiiess/wiifiiess/blob/7c9550df7559d0c1028b3dcee70321f15700085d/hey_gee_pop.png.webp width="300">
