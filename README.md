@@ -18,3 +18,5 @@ btw this looks good on dark mode only so hi bruh
 <br>
 make sure to follow my main and check out my friends. ok. go.
 </details>
+
+<p align="center"> <img src= width="300">
