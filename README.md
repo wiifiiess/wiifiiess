@@ -2,7 +2,6 @@
 <br>
 <br>
 <br>
-<br>
 <p align="center"> <img src=https://github.com/wiifiiess/wiifiiess/blob/c7c5bffd27e68af5491af9500e91a41371d28463/uh_uh_uhuhuhhh1.png.webp width="300">
 <br>
 <br>
