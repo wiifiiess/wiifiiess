@@ -1,5 +1,3 @@
-<img align="left" src=https://github.com/mysourheart/h/blob/69dc02b35e82ae9e88375ca6b74d1cae08952ceb/Untitled2653_20261030002210.PNG alt="sign ata!" width="420"/>
+<img align="left" src=https://github.com/wiifiiess/hi/blob/8a67fc2664bfdccf87e2f3528760ce3e5f08c127/v35f2dn.png.webp alt="sign ata!" width="420"/>
 <br>
-<p align="center"> $\color{#c618ae}{All}$ $\color{#d741bd}{mixed}$ $\color{#ffa9ca}{up}$ $\color{#ffa9ca}{,}$ $\color{#70f3c6}{you}$ $\color{#669eff}{dont}$ $\color{#851be5}{know}$ $\color{#c618ae}{what}$ $\color{#d741bd}{to}$ $\color{#ffa9ca}{do}$ $\color{#ffa9ca}{!}$
-<br>
-  -
+<p align="center"> $\color{#c618ae}{Text bro im lazy u do it yourself}$
