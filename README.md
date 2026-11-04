@@ -1,7 +1,6 @@
 <img align="left" src=https://github.com/wiifiiess/hi/blob/8a67fc2664bfdccf87e2f3528760ce3e5f08c127/v35f2dn.png.webp alt="poop" width="420"/>
 <br>
 <br>
-<br>
 <p align="center"> <img src=https://github.com/wiifiiess/wiifiiess/blob/c7c5bffd27e68af5491af9500e91a41371d28463/uh_uh_uhuhuhhh1.png.webp width="300">
 <br>
 <br>
@@ -19,4 +18,4 @@ btw this looks good on dark mode only so hi bruh
 make sure to follow my main and check out my friends. ok. go.
 </details>
 
-<p align="center"> <img src= width="300">
+<p align="center"> <img src=https://github.com/wiifiiess/wiifiiess/blob/7c9550df7559d0c1028b3dcee70321f15700085d/hey_gee_pop.png.webp width="300">
