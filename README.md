@@ -3,6 +3,6 @@
 <br>
 <br>
 <br>
-<p align="center"> $\color{#c618ae}{Look}$ $\color{#c618ae}{if}$ $\color{#c618ae}{youre}$ $\color{#c618ae}{gonna}$ $\color{#c618ae}{hit}$ $\color{#c618ae}{on}$ $\color{#c618ae}{my}$ $\color{#c618ae}{sister}$ $\color{#c618ae}{,}$ $\color{#c618ae}{you}$ $\color{#c618ae}{can}$ $\color{#c618ae}{hit}$ $\color{#c618ae}{on}$ $\color{#c618ae}{me}$ $\color{#c618ae}{too}$ $\color{#c618ae}{.}$
+<p align="center"> $\color{#1}{Look}$ $\color{#1}{,}$ $\color{#2}{if}$ $\color{#3}{youre}$ $\color{#1}{gonna}$ $\color{#2}{hit}$ $\color{#3}{on}$ $\color{#1}{my}$ $\color{#2}{sister}$ $\color{#2}{,}$ $\color{#3}{you}$ $\color{#1}{can}$ $\color{#2}{hit}$ $\color{#3}{on}$ $\color{1}{me}$ $\color{#2}{too}$ $\color{#2}{.}$
 <p align="center">
-$\color{#c618ae}{Cuz}$ $\color{#c618ae}{we}$ $\color{#c618ae}{look}$ $\color{#c618ae}{the}$ $\color{#c618ae}{same}$ $\color{#c618ae}{!}$
+$\color{#3}{Cuz}$ $\color{#1}{we}$ $\color{#2}{look}$ $\color{#3}{the}$ $\color{#1}{same}$ $\color{#1}{!}$
