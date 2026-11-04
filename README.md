@@ -14,6 +14,8 @@ $\color{#f3d194}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#f3
 btw this looks good on dark mode only so hi bruh
 <br>
 make sure to follow my main and check out my friends. ok. go.
+<br>
+I dont check who I follow often on this account sorryyy
 </details>
 <br>
 <p align="center"> <img src=https://github.com/wiifiiess/wiifiiess/blob/7c9550df7559d0c1028b3dcee70321f15700085d/hey_gee_pop.png.webp width="300">
