@@ -10,6 +10,7 @@ $\color{#5c3273}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#5c
 <br>
 <p align="center"> <a href="https://soursstuff.straw.page">strawpage</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
 <br>
+<br>
 <details <p align="center">
 <summary>  </summary>
 btw this looks good on dark mode only so hi bruh
