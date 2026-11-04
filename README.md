@@ -8,7 +8,9 @@
 $\color{#010064}{Cuz}$ $\color{#e7a397}{we}$ $\color{#a33d85}{look}$ $\color{#010064}{the}$ $\color{#e7a397}{same}$ $\color{#f3d194}{!}$ $\color{#f3d194}{ৎ}$ </p>
 <br>
 <details <p align="center">
-<summary> $${\color{#1}}$$  </summary>
+<summary>  </summary>
 <br>
-  placeholder
+<p align="center"> <a href="https://soursstuff.straw.page">strawpage</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a> </p>
+<br>
+make sure to follow my main and check out my friends. ok. go.
 </details>
